@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1317298326 source:/home/zidane/Projects/ffix_battle/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+	<string.h>
+
