@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1246877355 source:/home/marisa/work/Yami/Extractor/Yami_Extract/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1246891342 source:e:\yami\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<io.h>
+

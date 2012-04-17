@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1246946885 source:/home/marisa/work/Yami/Script_Extractor/main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+

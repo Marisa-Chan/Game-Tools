@@ -1,0 +1,730 @@
+# depslib dependency file v1.0
+1250670618 source:/home/marisa/work/exe_text_extractor/main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+
+1237249383 /usr/include/c++/4.3//iostream
+	<bits/c++config.h>
+	<ostream>
+	<istream>
+
+1237249383 /usr/include/c++/4.3//ostream
+	<ios>
+	<bits/ostream_insert.h>
+	<bits/ostream.tcc>
+
+1237249383 /usr/include/c++/4.3//ios
+	<iosfwd>
+	<exception>
+	<bits/char_traits.h>
+	<bits/localefwd.h>
+	<bits/ios_base.h>
+	<streambuf>
+	<bits/basic_ios.h>
+
+1237249383 /usr/include/c++/4.3//iosfwd
+	<bits/c++config.h>
+	<bits/stringfwd.h>
+	<bits/postypes.h>
+
+1237249379 /usr/include/c++/4.3//bits/stringfwd.h
+	<bits/c++config.h>
+
+1237249379 /usr/include/c++/4.3//bits/postypes.h
+	<cwchar>
+	<stdint.h>
+
+1237249383 /usr/include/c++/4.3//cwchar
+	<bits/c++config.h>
+	<cstddef>
+	<wchar.h>
+	<tr1_impl/cwchar>
+	<tr1_impl/cwchar>
+
+1237249383 /usr/include/c++/4.3//cstddef
+	<bits/c++config.h>
+	<stddef.h>
+
+1237249383 /usr/include/c++/4.3//tr1_impl/cwchar
+
+1237249384 /usr/include/c++/4.3//exception
+	<bits/c++config.h>
+
+1237249379 /usr/include/c++/4.3//bits/char_traits.h
+	<bits/stl_algobase.h>
+	<bits/postypes.h>
+	<cstdio>
+	<cwchar>
+
+1237249379 /usr/include/c++/4.3//bits/stl_algobase.h
+	<bits/c++config.h>
+	<cstddef>
+	<bits/functexcept.h>
+	<bits/cpp_type_traits.h>
+	<ext/type_traits.h>
+	<ext/numeric_traits.h>
+	<bits/stl_pair.h>
+	<bits/stl_iterator_base_types.h>
+	<bits/stl_iterator_base_funcs.h>
+	<bits/stl_iterator.h>
+	<bits/concept_check.h>
+	<debug/debug.h>
+	<bits/stl_move.h>
+	<parallel/algobase.h>
+
+1237249379 /usr/include/c++/4.3//bits/functexcept.h
+	<bits/c++config.h>
+	<exception_defines.h>
+
+1237249384 /usr/include/c++/4.3//exception_defines.h
+
+1237249379 /usr/include/c++/4.3//bits/cpp_type_traits.h
+	<bits/c++config.h>
+
+1237249380 /usr/include/c++/4.3//ext/type_traits.h
+	<bits/c++config.h>
+	<bits/cpp_type_traits.h>
+
+1237249380 /usr/include/c++/4.3//ext/numeric_traits.h
+	<bits/cpp_type_traits.h>
+	<ext/type_traits.h>
+
+1237249379 /usr/include/c++/4.3//bits/stl_pair.h
+	<bits/stl_move.h>
+
+1237249379 /usr/include/c++/4.3//bits/stl_move.h
+	<bits/c++config.h>
+	<bits/concept_check.h>
+	<type_traits>
+
+1237249379 /usr/include/c++/4.3//bits/concept_check.h
+	<bits/c++config.h>
+	<bits/boost_concept_check.h>
+
+1237249379 /usr/include/c++/4.3//bits/boost_concept_check.h
+	<cstddef>
+	<bits/stl_iterator_base_types.h>
+
+1237249379 /usr/include/c++/4.3//bits/stl_iterator_base_types.h
+	<bits/c++config.h>
+	<cstddef>
+
+1237249383 /usr/include/c++/4.3//type_traits
+	<c++0x_warning.h>
+	<cstddef>
+	<tr1_impl/type_traits>
+	<tr1_impl/type_traits>
+
+1237249383 /usr/include/c++/4.3//c++0x_warning.h
+
+1237249383 /usr/include/c++/4.3//tr1_impl/type_traits
+
+1237249379 /usr/include/c++/4.3//bits/stl_iterator_base_funcs.h
+	<bits/concept_check.h>
+
+1237249379 /usr/include/c++/4.3//bits/stl_iterator.h
+	<bits/cpp_type_traits.h>
+	<ext/type_traits.h>
+	<bits/stl_move.h>
+
+1237249383 /usr/include/c++/4.3//debug/debug.h
+	<cstdio>
+	<debug/macros.h>
+	<debug/functions.h>
+	<debug/formatter.h>
+
+1237249383 /usr/include/c++/4.3//cstdio
+	<bits/c++config.h>
+	<cstddef>
+	<stdio.h>
+	<tr1_impl/cstdio>
+	<tr1_impl/cstdio>
+
+1237249383 /usr/include/c++/4.3//tr1_impl/cstdio
+
+1237249383 /usr/include/c++/4.3//debug/macros.h
+
+1237249383 /usr/include/c++/4.3//debug/functions.h
+	<bits/c++config.h>
+	<cstddef>
+	<bits/stl_iterator_base_types.h>
+	<bits/cpp_type_traits.h>
+
+1237249383 /usr/include/c++/4.3//debug/formatter.h
+	<typeinfo>
+	<debug/debug.h>
+
+1237249384 /usr/include/c++/4.3//typeinfo
+	<exception>
+
+1237249383 /usr/include/c++/4.3//parallel/algobase.h
+	<bits/stl_algobase.h>
+	<parallel/base.h>
+	<parallel/tags.h>
+	<parallel/settings.h>
+	<parallel/find.h>
+	<parallel/find_selectors.h>
+
+1237249383 /usr/include/c++/4.3//parallel/base.h
+	<cstdio>
+	<functional>
+	<omp.h>
+	<parallel/features.h>
+	<parallel/basic_iterator.h>
+	<parallel/parallel.h>
+
+1237249383 /usr/include/c++/4.3//functional
+	<bits/c++config.h>
+	<bits/stl_function.h>
+	<typeinfo>
+	<new>
+	<tuple>
+	<type_traits>
+	<bits/stringfwd.h>
+	<bits/functional_hash.h>
+	<ext/type_traits.h>
+	<tr1_impl/functional>
+	<tr1_impl/functional>
+
+1237249379 /usr/include/c++/4.3//bits/stl_function.h
+	<backward/binders.h>
+
+1237249379 /usr/include/c++/4.3//backward/binders.h
+
+1237249384 /usr/include/c++/4.3//new
+	<cstddef>
+	<exception>
+
+1237249383 /usr/include/c++/4.3//tuple
+	<c++0x_warning.h>
+	<utility>
+
+1237249383 /usr/include/c++/4.3//utility
+	<bits/c++config.h>
+	<bits/stl_relops.h>
+	<bits/stl_pair.h>
+	<tr1_impl/utility>
+	<tr1_impl/utility>
+	<bits/stl_move.h>
+
+1237249379 /usr/include/c++/4.3//bits/stl_relops.h
+
+1237249383 /usr/include/c++/4.3//tr1_impl/utility
+
+1237249379 /usr/include/c++/4.3//bits/functional_hash.h
+	<c++0x_warning.h>
+	<tr1_impl/functional_hash.h>
+	<tr1_impl/functional_hash.h>
+
+1237249383 /usr/include/c++/4.3//tr1_impl/functional_hash.h
+
+1237249383 /usr/include/c++/4.3//tr1_impl/functional
+
+1237249383 /usr/include/c++/4.3//parallel/features.h
+
+1237249383 /usr/include/c++/4.3//parallel/basic_iterator.h
+	<bits/c++config.h>
+	<cstddef>
+	<bits/stl_iterator_base_types.h>
+	<bits/stl_iterator_base_funcs.h>
+	<bits/stl_iterator.h>
+
+1237249383 /usr/include/c++/4.3//parallel/parallel.h
+	<parallel/features.h>
+	<parallel/compiletime_settings.h>
+	<parallel/types.h>
+	<parallel/tags.h>
+	<parallel/settings.h>
+
+1237249383 /usr/include/c++/4.3//parallel/compiletime_settings.h
+	<cstdio>
+
+1237249383 /usr/include/c++/4.3//parallel/types.h
+	<cstdlib>
+
+1237249383 /usr/include/c++/4.3//cstdlib
+	<bits/c++config.h>
+	<cstddef>
+	<stdlib.h>
+	<tr1_impl/cstdlib>
+	<tr1_impl/cstdlib>
+
+1237249383 /usr/include/c++/4.3//tr1_impl/cstdlib
+
+1237249383 /usr/include/c++/4.3//parallel/tags.h
+
+1237249383 /usr/include/c++/4.3//parallel/settings.h
+	<parallel/types.h>
+
+1237249383 /usr/include/c++/4.3//parallel/find.h
+	<bits/stl_algobase.h>
+	<parallel/features.h>
+	<parallel/parallel.h>
+	<parallel/compatibility.h>
+	<parallel/equally_split.h>
+
+1237249383 /usr/include/c++/4.3//parallel/compatibility.h
+	<parallel/types.h>
+	<parallel/base.h>
+	<sys/atomic.h>
+	<sched.h>
+	<Windows.h>
+	<intrin.h>
+
+1237249383 /usr/include/c++/4.3//parallel/equally_split.h
+
+1237249383 /usr/include/c++/4.3//parallel/find_selectors.h
+	<parallel/tags.h>
+	<parallel/basic_iterator.h>
+	<bits/stl_pair.h>
+
+1237249379 /usr/include/c++/4.3//bits/localefwd.h
+	<bits/c++config.h>
+	<bits/c++locale.h>
+	<iosfwd>
+	<cctype>
+
+1237249383 /usr/include/c++/4.3//cctype
+	<bits/c++config.h>
+	<ctype.h>
+	<tr1_impl/cctype>
+	<tr1_impl/cctype>
+
+1237249383 /usr/include/c++/4.3//tr1_impl/cctype
+
+1237249379 /usr/include/c++/4.3//bits/ios_base.h
+	<ext/atomicity.h>
+	<bits/localefwd.h>
+	<bits/locale_classes.h>
+	<cstdio>
+
+1237249380 /usr/include/c++/4.3//ext/atomicity.h
+	<bits/c++config.h>
+	<bits/gthr.h>
+	<bits/atomic_word.h>
+
+1237249379 /usr/include/c++/4.3//bits/locale_classes.h
+	<bits/localefwd.h>
+	<string>
+	<ext/atomicity.h>
+	<bits/locale_classes.tcc>
+
+1237249383 /usr/include/c++/4.3//string
+	<bits/c++config.h>
+	<bits/stringfwd.h>
+	<bits/char_traits.h>
+	<bits/allocator.h>
+	<bits/cpp_type_traits.h>
+	<bits/localefwd.h>
+	<bits/ostream_insert.h>
+	<bits/stl_iterator_base_types.h>
+	<bits/stl_iterator_base_funcs.h>
+	<bits/stl_iterator.h>
+	<bits/stl_function.h>
+	<ext/numeric_traits.h>
+	<bits/stl_algobase.h>
+	<bits/basic_string.h>
+	<bits/basic_string.tcc>
+
+1237249379 /usr/include/c++/4.3//bits/allocator.h
+	<bits/c++allocator.h>
+
+1237249379 /usr/include/c++/4.3//bits/ostream_insert.h
+	<iosfwd>
+	<cxxabi-forced.h>
+
+1237249384 /usr/include/c++/4.3//cxxabi-forced.h
+
+1237249379 /usr/include/c++/4.3//bits/basic_string.h
+	<ext/atomicity.h>
+	<debug/debug.h>
+
+1237249379 /usr/include/c++/4.3//bits/basic_string.tcc
+	<cxxabi-forced.h>
+
+1237249379 /usr/include/c++/4.3//bits/locale_classes.tcc
+
+1237249383 /usr/include/c++/4.3//streambuf
+	<bits/c++config.h>
+	<iosfwd>
+	<bits/localefwd.h>
+	<bits/ios_base.h>
+	<bits/cpp_type_traits.h>
+	<ext/type_traits.h>
+	<bits/streambuf.tcc>
+
+1237249379 /usr/include/c++/4.3//bits/streambuf.tcc
+
+1237249379 /usr/include/c++/4.3//bits/basic_ios.h
+	<bits/localefwd.h>
+	<bits/locale_classes.h>
+	<bits/locale_facets.h>
+	<bits/streambuf_iterator.h>
+	<bits/basic_ios.tcc>
+
+1237249379 /usr/include/c++/4.3//bits/locale_facets.h
+	<cwctype>
+	<cctype>
+	<bits/ctype_base.h>
+	<iosfwd>
+	<bits/ios_base.h>
+	<streambuf>
+	<bits/cpp_type_traits.h>
+	<ext/type_traits.h>
+	<ext/numeric_traits.h>
+	<bits/streambuf_iterator.h>
+	<bits/ctype_inline.h>
+	<bits/locale_facets.tcc>
+
+1237249383 /usr/include/c++/4.3//cwctype
+	<bits/c++config.h>
+	<wctype.h>
+	<tr1_impl/cwctype>
+	<tr1_impl/cwctype>
+
+1237249383 /usr/include/c++/4.3//tr1_impl/cwctype
+
+1237249379 /usr/include/c++/4.3//bits/streambuf_iterator.h
+	<streambuf>
+	<debug/debug.h>
+
+1237249379 /usr/include/c++/4.3//bits/locale_facets.tcc
+
+1237249379 /usr/include/c++/4.3//bits/basic_ios.tcc
+
+1237249379 /usr/include/c++/4.3//bits/ostream.tcc
+	<cxxabi-forced.h>
+
+1237249383 /usr/include/c++/4.3//istream
+	<ios>
+	<ostream>
+	<bits/istream.tcc>
+
+1237249379 /usr/include/c++/4.3//bits/istream.tcc
+	<cxxabi-forced.h>
+
+1250763226 source:/home/marisa/work/exe_text_patcher/main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+
+1271413433 /usr/include/stdlib.h
+	<features.h>
+	<stddef.h>
+	<bits/waitflags.h>
+	<bits/waitstatus.h>
+	<xlocale.h>
+	<sys/types.h>
+	<alloca.h>
+	<bits/stdlib.h>
+	<bits/stdlib-ldbl.h>
+
+1271413419 /usr/include/features.h
+	<sys/cdefs.h>
+	<gnu/stubs.h>
+
+1271413442 /usr/include/sys/cdefs.h
+	<features.h>
+	<bits/wordsize.h>
+
+1271413433 /usr/include/bits/wordsize.h
+
+1271413419 /usr/include/gnu/stubs.h
+	<bits/wordsize.h>
+	<gnu/stubs-32.h>
+	<gnu/stubs-64.h>
+
+1271413465 /usr/include/gnu/stubs-32.h
+
+1271413439 /usr/include/bits/waitflags.h
+
+1271413439 /usr/include/bits/waitstatus.h
+	<endian.h>
+
+1271413436 /usr/include/endian.h
+	<features.h>
+	<bits/endian.h>
+	<bits/byteswap.h>
+
+1271413436 /usr/include/bits/endian.h
+
+1271413436 /usr/include/bits/byteswap.h
+
+1271413420 /usr/include/xlocale.h
+
+1271413439 /usr/include/sys/types.h
+	<features.h>
+	<bits/types.h>
+	<time.h>
+	<stddef.h>
+	<endian.h>
+	<sys/select.h>
+	<sys/sysmacros.h>
+	<bits/pthreadtypes.h>
+
+1271413439 /usr/include/bits/types.h
+	<features.h>
+	<bits/wordsize.h>
+	<bits/typesizes.h>
+
+1271413439 /usr/include/bits/typesizes.h
+
+1271413437 /usr/include/time.h
+	<features.h>
+	<stddef.h>
+	<bits/time.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<xlocale.h>
+
+1271413437 /usr/include/bits/time.h
+	<bits/types.h>
+	<bits/types.h>
+
+1271413442 /usr/include/sys/select.h
+	<features.h>
+	<bits/types.h>
+	<bits/select.h>
+	<bits/sigset.h>
+	<time.h>
+	<bits/time.h>
+
+1271413442 /usr/include/bits/select.h
+
+1271413432 /usr/include/bits/sigset.h
+
+1271413439 /usr/include/sys/sysmacros.h
+	<features.h>
+
+1271413439 /usr/include/bits/pthreadtypes.h
+
+1271413433 /usr/include/alloca.h
+	<features.h>
+	<stddef.h>
+
+1271413433 /usr/include/bits/stdlib.h
+
+1271413433 /usr/include/bits/stdlib-ldbl.h
+
+1271413434 /usr/include/stdio.h
+	<features.h>
+	<stddef.h>
+	<bits/types.h>
+	<libio.h>
+	<stdarg.h>
+	<bits/stdio_lim.h>
+	<bits/sys_errlist.h>
+	<getopt.h>
+	<bits/stdio.h>
+	<bits/stdio2.h>
+	<bits/stdio-ldbl.h>
+
+1271413434 /usr/include/libio.h
+	<_G_config.h>
+	<stdarg.h>
+	<sys/cdefs.h>
+	<bits/stdio-lock.h>
+	<shlib-compat.h>
+	<bits/libio-ldbl.h>
+
+1271413434 /usr/include/_G_config.h
+	<bits/types.h>
+	<stddef.h>
+	<wchar.h>
+	<gconv.h>
+
+1271413437 /usr/include/wchar.h
+	<features.h>
+	<stdio.h>
+	<stdarg.h>
+	<bits/wchar.h>
+	<stddef.h>
+	<wctype.h>
+	<xlocale.h>
+	<xlocale.h>
+	<xlocale.h>
+	<wctype.h>
+	<bits/wchar2.h>
+	<bits/wchar-ldbl.h>
+
+1271413437 /usr/include/bits/wchar.h
+
+1271413444 /usr/include/wctype.h
+	<features.h>
+	<bits/types.h>
+	<stddef.h>
+	<endian.h>
+	<xlocale.h>
+
+1271413437 /usr/include/bits/wchar2.h
+
+1271413437 /usr/include/bits/wchar-ldbl.h
+
+1271413420 /usr/include/gconv.h
+	<features.h>
+	<wchar.h>
+	<stddef.h>
+
+1271413434 /usr/include/bits/stdio-lock.h
+	<bits/libc-lock.h>
+	<lowlevellock.h>
+
+1271413419 /usr/include/bits/libc-lock.h
+	<pthread.h>
+	<stddef.h>
+	<lowlevellock.h>
+	<tls.h>
+	<pthread-functions.h>
+	<bp-sym.h>
+
+1271413451 /usr/include/pthread.h
+	<features.h>
+	<endian.h>
+	<sched.h>
+	<time.h>
+	<signal.h>
+	<bits/pthreadtypes.h>
+	<bits/setjmp.h>
+	<bits/wordsize.h>
+
+1271413439 /usr/include/sched.h
+	<features.h>
+	<bits/types.h>
+	<stddef.h>
+	<time.h>
+	<bits/sched.h>
+
+1271413439 /usr/include/bits/sched.h
+
+1271413432 /usr/include/signal.h
+	<features.h>
+	<bits/sigset.h>
+	<bits/types.h>
+	<bits/signum.h>
+	<time.h>
+	<bits/siginfo.h>
+	<bits/sigaction.h>
+	<bits/sigcontext.h>
+	<stddef.h>
+	<bits/sigstack.h>
+	<sys/ucontext.h>
+	<bits/pthreadtypes.h>
+	<bits/sigthread.h>
+
+1271413432 /usr/include/bits/signum.h
+
+1271413432 /usr/include/bits/siginfo.h
+	<bits/wordsize.h>
+
+1271413432 /usr/include/bits/sigaction.h
+
+1271413432 /usr/include/bits/sigcontext.h
+	<asm/sigcontext.h>
+
+1271413432 /usr/include/bits/sigstack.h
+
+1271413433 /usr/include/sys/ucontext.h
+	<features.h>
+	<signal.h>
+	<bits/sigcontext.h>
+
+1271413432 /usr/include/bits/sigthread.h
+
+1271413432 /usr/include/bits/setjmp.h
+
+1271413434 /usr/include/bits/libio-ldbl.h
+
+1271413434 /usr/include/bits/stdio_lim.h
+
+1271413434 /usr/include/bits/sys_errlist.h
+
+1271413439 /usr/include/getopt.h
+	<ctype.h>
+
+1271413428 /usr/include/ctype.h
+	<features.h>
+	<bits/types.h>
+	<endian.h>
+	<xlocale.h>
+
+1271413434 /usr/include/bits/stdio.h
+
+1271413434 /usr/include/bits/stdio2.h
+
+1271413434 /usr/include/bits/stdio-ldbl.h
+
+1271413433 /usr/include/stdint.h
+	<features.h>
+	<bits/wchar.h>
+	<bits/wordsize.h>
+
+1271413436 /usr/include/string.h
+	<features.h>
+	<stddef.h>
+	<xlocale.h>
+	<bits/string.h>
+	<bits/string2.h>
+	<bits/string3.h>
+
+1271413436 /usr/include/bits/string.h
+
+1271413436 /usr/include/bits/string2.h
+	<endian.h>
+	<bits/types.h>
+	<stdlib.h>
+
+1271413436 /usr/include/bits/string3.h
+
+1274206278 source:/media/202/Utils/Exe_text_tools/exe_text_patcher/main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<inttypes.h>
+
+1271339978 /usr/include/asm/sigcontext.h
+	<linux/types.h>
+
+1271339977 /usr/include/linux/types.h
+	<asm/types.h>
+	<linux/posix_types.h>
+
+1271339978 /usr/include/asm/types.h
+	<asm-generic/types.h>
+
+1271339975 /usr/include/asm-generic/types.h
+	<asm-generic/int-ll64.h>
+
+1271339975 /usr/include/asm-generic/int-ll64.h
+	<asm/bitsperlong.h>
+
+1271339978 /usr/include/asm/bitsperlong.h
+	<asm-generic/bitsperlong.h>
+
+1271339975 /usr/include/asm-generic/bitsperlong.h
+
+1271339977 /usr/include/linux/posix_types.h
+	<linux/stddef.h>
+	<asm/posix_types.h>
+
+1271339977 /usr/include/linux/stddef.h
+
+1271339978 /usr/include/asm/posix_types.h
+	"posix_types_32.h"
+	"posix_types_64.h"
+
+1271339978 /usr/include/asm/posix_types_32.h
+
+1271339978 /usr/include/asm/posix_types_64.h
+
+1271413433 /usr/include/inttypes.h
+	<features.h>
+	<stdint.h>
+	<stddef.h>
+

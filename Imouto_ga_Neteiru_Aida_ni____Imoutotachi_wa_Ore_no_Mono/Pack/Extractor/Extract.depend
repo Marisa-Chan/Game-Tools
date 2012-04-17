@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1255526640 source:e:\utils\imouto_ga_neteiru_aida_ni____imoutotachi_wa_ore_no_mono\pack\extractor\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/file.h>
+	<fstream>
+

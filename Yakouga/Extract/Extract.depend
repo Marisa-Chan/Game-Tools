@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1262193691 source:/media/56C47319C472FA97/Utils/Yakouga/Extract/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+

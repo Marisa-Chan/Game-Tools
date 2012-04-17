@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <PersonalityInfo>
+    <Option>
+      <Option Name="Personality">Default.Personality</Option>
+      <Option Name="ProjectType"></Option>
+      <Option Name="Version">1.0</Option>
+      <Option Name="GUID">{D3970764-76FC-453D-A65D-A70AE77DC75B}</Option>
+    </Option>
+  </PersonalityInfo>
+  <Default.Personality>
+    
+    <Projects>
+      <Projects Name="extr_txt.exe">extr_txt.bdsproj</Projects>
+      <Projects Name="inst_txt.exe">..\ins_TXT2\inst_txt.bdsproj</Projects>
+      <Projects Name="Targets">extr_txt.exe inst_txt.exe</Projects>
+    </Projects>
+    <Dependencies/>
+  </Default.Personality>
+</BorlandProject>
