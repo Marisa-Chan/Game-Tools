@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1318166584 source:/home/zidane/Projects/roketz_scene_export/main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<inttypes.h>
+
